@@ -3,6 +3,8 @@
 ### Descrição do Dataset
 Este dataset traz informações detalhadas sobre a metodologia usada no Academic Ranking of World Universities (ARWU), também conhecido como ShanghaiRanking, de 2024. O ARWU avalia e classifica universidades do mundo todo com base em indicadores de desempenho acadêmico e de pesquisa. Em 2024, mais de 2.500 universidades foram consideradas, com as top 1.000 sendo publicadas.
 
+[Dataset - Kaggle](https://www.kaggle.com/datasets/computingvictor/2024-academic-ranking-of-world-universities)
+
 ### Objetivo da Análise
 O objetivo desta análise é investigar os fatores determinantes que influenciam o posicionamento das universidades no ranking 2024. A análise busca identificar quais métricas acadêmicas e de pesquisa têm maior peso no desempenho global das instituições, oferecendo uma visão detalhada sobre como diferentes variáveis, como o número de ex-alunos premiados, publicações científicas e qualidade de pesquisa, impactam diretamente a posição de cada universidade no ranking.
 
